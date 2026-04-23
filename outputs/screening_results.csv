@@ -1,0 +1,6 @@
+Rank,Candidate,Match Score (%),Status,Skills Found
+1,Eva_Resume,41.84,✅ Shortlisted,"python, machine learning, deep learning, sql, nlp, tensorflow, pandas, scikit-learn, numpy"
+2,Carol_Resume,40.32,✅ Shortlisted,"python, deep learning, nlp, tensorflow, pandas, data analysis, statistics, matplotlib, seaborn"
+3,Alice_Resume,36.59,✅ Shortlisted,"python, machine learning, sql, nlp, pandas, scikit-learn, statistics, numpy"
+4,David_Resume,25.21,❌ Not Selected,"sql, data analysis, tableau, power bi, excel, statistics"
+5,Bob_Resume,1.98,❌ Not Selected,"sql, excel"
